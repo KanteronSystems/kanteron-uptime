@@ -44,7 +44,7 @@ status-website:
   logoUrl: https://blog.kanteron.com/images/logo.png
   name: Uptime
   introTitle: "**Uptime** automatic monitor and status page, powered entirely by GitHub."
-  introMessage: This status page uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: Status page using **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /

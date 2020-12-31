@@ -239,18 +239,18 @@
     "icon": "https://favicons.githubusercontent.com/kanteron-demo-client1.eastus.cloudapp.azure.com",
     "slug": "pacs-5",
     "status": "down",
-    "uptime": "10.59%",
-    "uptimeDay": "10.59%",
-    "uptimeWeek": "10.59%",
-    "uptimeMonth": "10.59%",
-    "uptimeYear": "10.59%",
+    "uptime": "5.29%",
+    "uptimeDay": "5.29%",
+    "uptimeWeek": "5.29%",
+    "uptimeMonth": "5.29%",
+    "uptimeYear": "5.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-31": 0
+      "2020-12-31": 1
     }
   }
 ]

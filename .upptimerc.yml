@@ -1,29 +1,50 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: KanteronSystems # Your GitHub username
+repo: kanteron-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Kanteron Website
+    url: https://www.kanteron.com/
+  - name: Kanteron Sitio Web
+    url: https://web.kanteron.com/
+  - name: Kanteron Blog
+    url: https://blog.kanteron.com/
+  - name: Blog de Kanteron
+    url: https://bloges.kanteron.com/
+  - name: Europato
+    url: http://europato.kanteron.net/TMIS/login.xhtml
+  - name: Azapp
+    url: https://azapp.kanteron.net/TMIS/login.xhtml
+  - name: GDB Genomics
+    url: https://gdb.genomics.kanteron.com/TMIS/login.xhtml   
+  - name: K3D
+    url: https://k3d.kanteron.net/?url=https://s3.eu-central-1.amazonaws.com/ohif-viewer/JSON/PTCTStudy.json
+  - name: KAV
+    url: https://kav.kanteron.net/studylist
+  - name: KLS
+    url: https://kls.kanteron.net/
+  - name: KDV
+    url: http://20.185.6.186/KDV/viewer/1.3.6.1.4.1.14519.5.2.1.2193.7172.847236098565581057121195872945
+  - name: Central
+    url: https://central.kanteron.com/TMIS/login.xhtml
+  - name: Testing
+    url: https://testing.kanteron.com/TMIS/login.xhtml
+  - name: PACS5
+    url: https://kanteron-demo-client1.eastus.cloudapp.azure.com/TMIS/secure/historia/Ficha.xhtml?id=1
+    
+assignees: # Users to assign downtime issues (optional)
+  - jcortell
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /uptime
+  logoUrl: https://blog.kanteron.com/images/logo.png
+  name: Uptime
+  introTitle: "**Uptime** automatic monitor and status page, powered entirely by GitHub."
+  introMessage: This status page uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /

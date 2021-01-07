@@ -112,18 +112,20 @@
     "url": "https://gdb.genomics.kanteron.com/TMIS/login.xhtml",
     "icon": "https://favicons.githubusercontent.com/gdb.genomics.kanteron.com",
     "slug": "gdb-genomics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 734,
-    "timeWeek": 557,
-    "timeMonth": 558,
-    "timeYear": 558,
-    "dailyMinutesDown": {}
+    "time": 547,
+    "timeDay": 595,
+    "timeWeek": 544,
+    "timeMonth": 547,
+    "timeYear": 547,
+    "dailyMinutesDown": {
+      "2021-01-07": 0
+    }
   },
   {
     "name": "K3D",
@@ -202,19 +204,19 @@
     "url": "https://central.kanteron.com/TMIS/login.xhtml",
     "icon": "https://favicons.githubusercontent.com/central.kanteron.com",
     "slug": "central",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 548,
-    "timeDay": 688,
+    "timeDay": 618,
     "timeWeek": 543,
     "timeMonth": 548,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2021-01-07": 0
+      "2021-01-07": 34
     }
   },
   {
@@ -222,19 +224,19 @@
     "url": "https://testing.kanteron.com/TMIS/login.xhtml",
     "icon": "https://favicons.githubusercontent.com/testing.kanteron.com",
     "slug": "testing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 594,
-    "timeWeek": 621,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 669,
+    "timeDay": 781,
+    "timeWeek": 680,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {
-      "2021-01-07": 0
+      "2021-01-07": 34
     }
   },
   {
@@ -254,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-07": 798,
+      "2021-01-07": 832,
       "2021-01-06": 1440,
       "2021-01-05": 1440,
       "2021-01-04": 1440,

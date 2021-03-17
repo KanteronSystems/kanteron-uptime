@@ -1,7 +1,7 @@
 url: https://central.kanteron.com/TMIS/login.xhtml
-status: down
-code: 502
-responseTime: 333
-lastUpdated: 2021-03-16T23:24:04.003Z
+status: up
+code: 200
+responseTime: 1016
+lastUpdated: 2021-03-17T13:28:14.113Z
 startTime: Thu Dec 31 2020 12:57:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: http://europato.kanteron.net/TMIS/login.xhtml
-status: down
-code: 504
-responseTime: 10126
-lastUpdated: 2021-12-24T05:48:37.080Z
+status: up
+code: 200
+responseTime: 16911
+lastUpdated: 2021-12-24T05:55:21.292Z
 startTime: Thu Dec 31 2020 12:57:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
